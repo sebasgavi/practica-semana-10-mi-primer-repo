@@ -27,5 +27,6 @@ function paginaCargada(){
     }
     imagenes.forEach(recorrerPerritos);
 
+    console.log('web es lo máximo');
 }
 window.addEventListener('load', paginaCargada);
