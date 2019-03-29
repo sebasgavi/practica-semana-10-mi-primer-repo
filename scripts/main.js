@@ -1,5 +1,7 @@
 function paginaCargada(){
 
+    alert('hola');
+
     var seleccionada = 0;
     var imagenes = document.querySelectorAll('.imagen-perrito');
     function cambiarPosicion(evento){
